@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
         <!--(อัปเดต / ย้อนเวอร์ชัน)-->
-    <version>3.0</version>
-    <url>https://github.com/TrsiL12241/TrsiLChecker/releases/download/v3.0/TrsiLChecker.zip</url>
-    <changelog>https://github.com/TrsiL12241/TrsiLChecker/releases/tag/v3.0</changelog>
+    <version>4.0</version>
+    <url>https://github.com/TrsiL12241/TrsiLChecker/releases/download/v4.0/TrsiLChecker.zip</url>
+    <changelog>https://github.com/TrsiL12241/TrsiLChecker/releases/tag/v4.0</changelog>
         <!--(ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว)-->
     <status>active</status>
 </item>
